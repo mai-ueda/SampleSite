@@ -8,7 +8,7 @@
 */
 
 #container{
-  width: 84%;
+  width: 82%;
   max-width: 1280px;
   min-width: 512px;
   margin: 0 auto;
@@ -16,8 +16,8 @@
 
 header {
    position:relative;
-   height: 8rem;
-   background:#f5deb3;
+   height: 12rem;
+   background:#a9a9a9;
    box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
  }
 
@@ -76,4 +76,8 @@ footer {
   text-align: center;
   background: #333;
   color: white;
+}
+
+.abc{
+  background-color: #808080
 }
