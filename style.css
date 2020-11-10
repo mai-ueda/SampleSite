@@ -26,7 +26,7 @@ header {
     top: 3rem;
     left: 3rem;
     font-size: 2rem;
-    color: #a0522d;
+    color: white;
   }
 
 nav {
@@ -49,7 +49,7 @@ nav {
 
 main{
   display: flex;
-  flex-direction: row;
+  flex-direction:row-reverse;
 }
 
   section{
